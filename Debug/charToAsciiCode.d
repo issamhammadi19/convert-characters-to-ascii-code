@@ -1,0 +1,1 @@
+charToAsciiCode.o: ../charToAsciiCode.c
